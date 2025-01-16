@@ -1,4 +1,4 @@
-# html001
+# html005 - MEGOLDÁS
 
 * Szerző: Sallai András
 * Copyright © 2020, Sallai András
@@ -7,7 +7,7 @@
 * https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
 
 ## Jelölés
-### Feladat 005
+### Feladat 005 - Megoldás
 
 Töltse le a szoveg.txt és az index.html állományokat:
 
